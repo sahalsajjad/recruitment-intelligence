@@ -1,0 +1,29 @@
+{
+	"headers":["summary","objective", "skills", "experience", "education","certifications","publications","achievements","honors","conferences","contributions","employment_history","work_experience", "conferences_attended","certifications","independent_software_development" ],
+	"aliases":{	"achievements":"achievements",
+		   	   	"certifications":"certifications",
+		   	   	"conferences":"conferences",
+		   		"conferences_attended":"conferences",	
+		   		"contributions":"contributions",
+				"objective":"summary",
+			   	"professional_summary":"summary",
+			   	"summary":"summary",
+		       	"skillset":"skills",
+		       	"professional_skills":"skills",
+		       	"skills":"skills",
+		   	   	"experience":"experience",
+		   	   	"work_experience":"experience",
+		   	   	"employment_history":"experience",		   
+		   	   	"education":"education",	   
+		   		"publications":"publications",
+		   		"honors":"honors",
+		   		"languages":"languages",
+		   		"talks":"talks",
+		   		"independent_software_development":"contributions",
+		   		"open_source_contributions":"contributions"
+	},
+	"headers_extended":[
+		"objective","summary","professional_summary","education",
+		"experience","work_experience","skills","skill_set"
+	]
+}

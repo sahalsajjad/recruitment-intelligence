@@ -1,0 +1,6 @@
+1. Read the resume file
+2. Using Apache PDFBox, extract text out of it.
+3. Store the text as an ArrayBuffer based on '\n'
+4. Apply the rules of resume to parse the ArrayBuffer
+5. Store the rules as a JSONFile in database.
+
